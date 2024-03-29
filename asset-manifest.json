@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/youmove/static/css/main.1852d014.css",
-    "main.js": "/youmove/static/js/main.cccfffd6.js",
+    "main.js": "/youmove/static/js/main.f5379b78.js",
     "static/js/453.da51e8d9.chunk.js": "/youmove/static/js/453.da51e8d9.chunk.js",
     "index.html": "/youmove/index.html",
     "main.1852d014.css.map": "/youmove/static/css/main.1852d014.css.map",
-    "main.cccfffd6.js.map": "/youmove/static/js/main.cccfffd6.js.map",
+    "main.f5379b78.js.map": "/youmove/static/js/main.f5379b78.js.map",
     "453.da51e8d9.chunk.js.map": "/youmove/static/js/453.da51e8d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1852d014.css",
-    "static/js/main.cccfffd6.js"
+    "static/js/main.f5379b78.js"
   ]
 }
